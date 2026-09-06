@@ -1,4 +1,6 @@
-# NexusPulse Healthcare Project
+# Nexuspulse_healthcare_patientmodule-
+
+## NexusPulse Healthcare Project
 
 This prototype implements the business requirements documented in the NexusPulse BRD, including:
 
